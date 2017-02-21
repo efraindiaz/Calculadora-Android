@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+
+    <string name="text1">Escribe aqui:</string>
+
+    <string name="btn1">Aceptar</string>
+
+    <string name="btnCancel">Cancelar</string>
+
+    <string name="btnShow">Mostrar</string>
+
+</resources>
